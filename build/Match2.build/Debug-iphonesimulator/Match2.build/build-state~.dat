@@ -1,0 +1,269 @@
+TMatch2
+v7
+r0
+t301981707.699093
+cCheck dependencies
+cProcessInfoPlistFile /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Info.plist Match2-Info.plist
+cCompileXIB /Users/jaime/Dev/iOS/rambling/Match2/MainWindow.xib
+cCompileXIB /Users/jaime/Dev/iOS/rambling/Match2/Match2ViewController.xib
+cProcessPCH /var/folders/CL/CLCygxLAE30TDwlrzPSzSE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Match2_Prefix-eslwpjemflscrkaiybvdtszgwqji/Match2_Prefix.pch.gch Match2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/main.o /Users/jaime/Dev/iOS/rambling/Match2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/Match2AppDelegate.o /Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/Match2ViewController.o /Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match2 normal i386
+cGenerateDSYMFile /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app.dSYM /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match2
+cTouch /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk
+c000000004C3371190000000000000132
+t1278439705
+s306
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004BFDFE39000000000027C7D0
+t1274936889
+s2607056
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004BFDFE7C000000000029D5D0
+t1274936956
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004BFDFE6E0000000000001466
+t1274936942
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/GameKit.framework/GameKit
+c000000004C04734F00000000000D9120
+t1275360079
+s889120
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/GameKit.framework/Headers/GameKit.h
+c000000004C047342000000000000014A
+t1275360066
+s330
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004C0470BB00000000000009CD
+t1275359419
+s2509
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004C0471620000000001D47210
+t1275359586
+s30700048
+
+N/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2AppDelegate.h
+c000000004C4FA7FC00000000000001D2
+t1280288764
+s466
+i<UIKit/UIKit.h>
+
+N/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2AppDelegate.m
+c000000004C4FA7FC0000000000000A7F
+t1280288764
+s2687
+i"Match2AppDelegate.h"
+i"Match2ViewController.h"
+
+N/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.h
+c000000004C4FA8530000000000000147
+t1280288851
+s327
+i<UIKit/UIKit.h>
+i<GameKit/GameKit.h>
+
+N/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m
+c000000004C4FA7FC00000000000005AE
+t1280288764
+s1454
+i"Match2ViewController.h"
+
+N/Users/jaime/Dev/iOS/rambling/Match2/MainWindow.xib
+c000000004C4FA7FC0000000000004E1D
+t1280288764
+s19997
+
+N/Users/jaime/Dev/iOS/rambling/Match2/Match2ViewController.xib
+c000000004C4FA7FC0000000000001A41
+t1280288764
+s6721
+
+N/Users/jaime/Dev/iOS/rambling/Match2/Match2_Prefix.pch
+c000000004C4FA7FC00000000000000B5
+t1280288764
+s181
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app
+t1280288907
+s238
+
+N/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app.dSYM
+t1280288907
+s102
+
+N/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Info.plist
+t1280288904
+s587
+
+N/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/MainWindow.nib
+t1280288905
+s1121
+
+N/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match2
+t1280288907
+s17112
+
+N/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match2ViewController.nib
+t1280288905
+s795
+
+N/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/PkgInfo
+t1280288904
+s8
+
+N/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/Match2.LinkFileList
+c000000004C4FA888000000000000017F
+t1280288904
+s383
+
+N/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/Match2AppDelegate.o
+t1280288907
+s47956
+
+N/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/Match2ViewController.o
+t1280288907
+s34948
+
+N/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/main.o
+t1280288907
+s6300
+
+N/Users/jaime/Dev/iOS/rambling/Match2/main.m
+c000000004C4FA7FC0000000000000161
+t1280288764
+s353
+i<UIKit/UIKit.h>
+
+N/var/folders/CL/CLCygxLAE30TDwlrzPSzSE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Match2_Prefix-eslwpjemflscrkaiybvdtszgwqji/Match2_Prefix.pch.gch
+t1280288906
+s15232016
+
+NMatch2-Info.plist
+c000000004C4FA7FC000000000000038D
+t1280288764
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301981704#301981704#0(0"0(0#1#0"8624510080#0"0#
+
+CCompileC build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/Match2AppDelegate.o /Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2AppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301981706.814243
+e301981707.183249
+r1
+xCompileC
+xbuild/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/Match2AppDelegate.o
+x/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2AppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@72"Compile /Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2AppDelegate.m301981706#301981707#0(0"0(0#0#64"/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2AppDelegate.m8617661600#1893"    cd /Users/jaime/Dev/iOS/rambling/Match2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-generated-files.hmap -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-own-target-headers.hmap -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-all-target-headers.hmap -iquote /Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-project-headers.hmap -F/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator -I/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/include -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/DerivedSources/i386 -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/DerivedSources -include /var/folders/CL/CLCygxLAE30TDwlrzPSzSE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Match2_Prefix-eslwpjemflscrkaiybvdtszgwqji/Match2_Prefix.pch -c /Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2AppDelegate.m -o /Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/Match2AppDelegate.o0#
+
+CCompileC build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/Match2ViewController.o /Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301981707.087716
+e301981707.383650
+r1
+xCompileC
+xbuild/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/Match2ViewController.o
+x/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m:65: warning: property 'session' requires method '-session' to be defined - use @synthesize, @dynamic or provide a method implementation
+o/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m:65: warning: property 'session' requires the method 'setSession:' to be defined - use @synthesize, @dynamic or provide a method implementation
+lSLF07#2@75"Compile /Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m301981707#301981707#0(415"/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m:65: warning: property 'session' requires method '-session' to be defined - use @synthesize, @dynamic or provide a method implementation/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m:65: warning: property 'session' requires the method 'setSession:' to be defined - use @synthesize, @dynamic or provide a method implementation2(22@122"Property 'session' requires method '-session' to be defined - use @synthesize, @dynamic or provide a method implementation301981707#0#204#0(6@67"/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m301981564#65#0#65#0#0"0(22@129"Property 'session' requires the method 'setSession:' to be defined - use @synthesize, @dynamic or provide a method implementation301981707#204#211#0(6@67"/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m301981564#65#0#65#0#0"0(0#0#67"/Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m8615700160#1899"    cd /Users/jaime/Dev/iOS/rambling/Match2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-generated-files.hmap -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-own-target-headers.hmap -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-all-target-headers.hmap -iquote /Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-project-headers.hmap -F/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator -I/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/include -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/DerivedSources/i386 -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/DerivedSources -include /var/folders/CL/CLCygxLAE30TDwlrzPSzSE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Match2_Prefix-eslwpjemflscrkaiybvdtszgwqji/Match2_Prefix.pch -c /Users/jaime/Dev/iOS/rambling/Match2/Classes/Match2ViewController.m -o /Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/Match2ViewController.o0#
+
+CCompileC build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/main.o /Users/jaime/Dev/iOS/rambling/Match2/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s301981706.803170
+e301981707.087621
+r1
+xCompileC
+xbuild/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/main.o
+x/Users/jaime/Dev/iOS/rambling/Match2/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/jaime/Dev/iOS/rambling/Match2/main.m301981706#301981707#0(0"0(0#0#43"/Users/jaime/Dev/iOS/rambling/Match2/main.m8623711008#1859"    cd /Users/jaime/Dev/iOS/rambling/Match2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-generated-files.hmap -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-own-target-headers.hmap -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-all-target-headers.hmap -iquote /Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-project-headers.hmap -F/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator -I/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/include -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/DerivedSources/i386 -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/DerivedSources -include /var/folders/CL/CLCygxLAE30TDwlrzPSzSE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Match2_Prefix-eslwpjemflscrkaiybvdtszgwqji/Match2_Prefix.pch -c /Users/jaime/Dev/iOS/rambling/Match2/main.m -o /Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/jaime/Dev/iOS/rambling/Match2/MainWindow.xib
+s301981704.224938
+e301981705.263970
+r1
+xCompileXIB
+x/Users/jaime/Dev/iOS/rambling/Match2/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib301981704#301981705#0(0"0(0#0#51"/Users/jaime/Dev/iOS/rambling/Match2/MainWindow.xib8623415968#563"    cd /Users/jaime/Dev/iOS/rambling/Match2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/MainWindow.nib /Users/jaime/Dev/iOS/rambling/Match2/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CCompileXIB /Users/jaime/Dev/iOS/rambling/Match2/Match2ViewController.xib
+s301981704.248937
+e301981705.249848
+r1
+xCompileXIB
+x/Users/jaime/Dev/iOS/rambling/Match2/Match2ViewController.xib
+lSLF07#2@35"CompileXIB Match2ViewController.xib301981704#301981705#0(0"0(0#0#61"/Users/jaime/Dev/iOS/rambling/Match2/Match2ViewController.xib8607466656#583"    cd /Users/jaime/Dev/iOS/rambling/Match2    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match2ViewController.nib /Users/jaime/Dev/iOS/rambling/Match2/Match2ViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk0#
+
+CGenerateDSYMFile /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app.dSYM /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match2
+s301981707.648537
+e301981707.689911
+r1
+xGenerateDSYMFile
+x/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app.dSYM
+x/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match2
+lSLF07#2@106"GenerateDSYMFile build/Debug-iphonesimulator/Match2.app.dSYM build/Debug-iphonesimulator/Match2.app/Match2301981707#301981707#0(0"0(0#0#82"/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match28624394848#374"    cd /Users/jaime/Dev/iOS/rambling/Match2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match2 -o /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app.dSYM0#
+
+CLd /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match2 normal i386
+s301981707.383757
+e301981707.648393
+r1
+xLd
+x/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match2
+xnormal
+xi386
+lSLF07#2@87"Link /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match2301981707#301981707#0(0"0(0#0#0"8624031968#904"    cd /Users/jaime/Dev/iOS/rambling/Match2    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -L/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator -F/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator -filelist /Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Objects-normal/i386/Match2.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -framework GameKit -o /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Match20#
+
+CProcessInfoPlistFile /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Info.plist Match2-Info.plist
+s301981704.191082
+e301981704.224802
+r1
+xProcessInfoPlistFile
+x/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Info.plist
+xMatch2-Info.plist
+lSLF07#2@25"Process Match2-Info.plist301981704#301981704#0(0"0(0#0#54"/Users/jaime/Dev/iOS/rambling/Match2/Match2-Info.plist8605662304#470"    cd /Users/jaime/Dev/iOS/rambling/Match2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Match2-Info.plist -genpkginfo /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app/Info.plist0#
+
+CProcessPCH /var/folders/CL/CLCygxLAE30TDwlrzPSzSE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Match2_Prefix-eslwpjemflscrkaiybvdtszgwqji/Match2_Prefix.pch.gch Match2_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s301981705.264085
+e301981706.802320
+r1
+xProcessPCH
+x/var/folders/CL/CLCygxLAE30TDwlrzPSzSE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Match2_Prefix-eslwpjemflscrkaiybvdtszgwqji/Match2_Prefix.pch.gch
+xMatch2_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@28"Precompile Match2_Prefix.pch301981705#301981706#0(0"0(0#0#54"/Users/jaime/Dev/iOS/rambling/Match2/Match2_Prefix.pch8624108736#1754"    cd /Users/jaime/Dev/iOS/rambling/Match2    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30200 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -iquote /Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-generated-files.hmap -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-own-target-headers.hmap -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-all-target-headers.hmap -iquote /Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/Match2-project-headers.hmap -F/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator -I/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/include -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/DerivedSources/i386 -I/Users/jaime/Dev/iOS/rambling/Match2/build/Match2.build/Debug-iphonesimulator/Match2.build/DerivedSources -c /Users/jaime/Dev/iOS/rambling/Match2/Match2_Prefix.pch -o /var/folders/CL/CLCygxLAE30TDwlrzPSzSE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Match2_Prefix-eslwpjemflscrkaiybvdtszgwqji/Match2_Prefix.pch.gch0#
+
+CTouch /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app
+s301981707.690000
+e301981707.699042
+r1
+xTouch
+x/Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app
+lSLF07#2@81"Touch /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app301981707#301981707#0(0"0(0#0#0"8607364448#273"    cd /Users/jaime/Dev/iOS/rambling/Match2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/jaime/Dev/iOS/rambling/Match2/build/Debug-iphonesimulator/Match2.app0#
+
